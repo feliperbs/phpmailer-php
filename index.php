@@ -18,11 +18,11 @@
 	$Mailer->Port = 465;
 
 	/*usuário email de saída*/
-	$Mailer->Username = 'felipe.romario12@gmail.com';
-	$Mailer->Password = 'fudencio';
+	$Mailer->Username = 'email@email.com;
+	$Mailer->Password = 'senha';
 
 	/*e-mail remetente*/
-	$Mailer->From = 'felipe.romario12@gmail.com';
+	$Mailer->From = 'email@email.com';
 
 	/*nome remetente*/
 	$Mailer->FromName = 'Felipe Barbosa';
